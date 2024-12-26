@@ -1,4 +1,4 @@
-![Screenshot 2024-12-26 163124](https://github.com/user-attachments/assets/b6c1512d-e5fb-4158-bb3a-05890f0a2b7c)# Library-Management-System
+# Library-Management-System
 
 
 ## Description
@@ -42,4 +42,5 @@ The **Library Management System** is a Java-based application designed to manage
 
 ![Screenshot 2024-12-26 164523](https://github.com/user-attachments/assets/205c4e60-ea45-4578-9921-26e967086539)
 
-![lms 9](https://github.com/user-attachments/assets/d1a86ba4-79e6-4fa2-be38-3c5f8820d01d)
+
+## Thank You
