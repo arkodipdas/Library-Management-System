@@ -88,7 +88,7 @@ public class LibraryApp {
                 try {
                     StringBuilder booksList = new StringBuilder("Available Books:\n");
                     for (Book book : bookDAO.getAvailableBooks()) {
-                        booksList.append(book.getTitle()).append(" by ").append("\t").append(book.getAuthor()).append("\n");
+                        booksList.append(book.getTitle()).append(" by ").append(book.getAuthor()).append("\n");
                     }
                     JOptionPane.showMessageDialog(null, booksList.toString());
                 } catch (SQLException ex) {
